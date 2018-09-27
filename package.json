@@ -2,7 +2,7 @@
   "name": "bxjs-react-component",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.tsx",
+  "main": "lib/index.js",
   "types": "src/index.d.ts",
   "scripts": {
     "start": "parcel demo/index.html",
